@@ -62,7 +62,7 @@ El proyecto utiliza información histórica de videojuegos comercializados en di
 
 ## 📂 Archivos Principales
 * `zeta_video_game_market_analysis.ipynb`
-* `games.csv`
+* `games(1).csv`
 
 ## 🏁 Conclusión
 El análisis permitió identificar patrones clave en la industria global de videojuegos y los factores determinantes del éxito comercial. El mercado mostró una transición generacional clara hacia **PS4** y **Xbox One**. Dado que las valoraciones de los críticos influyen positivamente en las ventas —mientras que las de los usuarios tienen un impacto marginal— y existen marcadas diferencias regionales, se recomienda enfocar las campañas publicitarias y de marketing para 2017 en plataformas con alto potencial como **PlayStation 4, Xbox One, Nintendo 3DS y PC**.
